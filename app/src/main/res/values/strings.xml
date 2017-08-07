@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SignatureToyApp</string>
+    <string name="hello">hey there!</string>
+    <string name="external_dir">GetSignature</string>
+</resources>
